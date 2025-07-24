@@ -27,4 +27,8 @@ Clone the repository and install dependencies:
 pip install -r requirements.txt
 ```
 
-App Link: https://answerly.streamlit.app/
+## Live Demo
+
+You can try the deployed app here:  
+🔗 [https://answerly.streamlit.app](https://answerly.streamlit.app)
+
